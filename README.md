@@ -1,6 +1,6 @@
 # Diego Oppenheimer (doppenhe)
 
-Hi, I'm Diego. I build AI companies, back the founders building the next ones, and run the largest community of AI builders in the world. Before investing I founded and scaled companies, and shipped data products used by hundreds of millions of people. Here's what I'm working on:
+Hi, I'm Diego. I build AI companies, back the founders building the next ones, and help run the largest community of AI builders in the world. Before investing I founded and scaled companies, and shipped data products used by hundreds of millions of people. Here's what I'm working on:
 
 🔨 [**AI Tinkerers Fund**](https://aitfund.ai) : Pre-seed fund backing AI/ML founders at the earliest, messiest, most fun stage.
 
