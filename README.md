@@ -21,4 +21,5 @@ Hi, I'm Diego. I build AI companies, back the founders building the next ones, a
 ## Elsewhere
 
 📍 Seattle, with regular stops at Stanford and NYC
+
 🌐 [doppenheimer.com](https://doppenheimer.com)
